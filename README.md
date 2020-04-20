@@ -1,4 +1,4 @@
-# tiktak
+# Tik Tak
 
 A new Flutter application.
 
